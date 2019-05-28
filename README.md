@@ -1,4 +1,4 @@
-# youtube_scraping with python
+# youtube_scraping project with python
 Scraping and data visualization of youtube trends, in this case we see the french trends https://www.youtube.com/feed/trending
 
 
