@@ -2,10 +2,10 @@
 Scraping and data visualization of youtube trends, in this case we see the french trends https://www.youtube.com/feed/trending
 
 
-# DataFrame with pandas python librairy
+## DataFrame with pandas python librairy
 To clean and organize our data
 
-# Data Visualization with bokeh
+## Data Visualization with bokeh
 To see most youtubers views in youtube trends
 
 
